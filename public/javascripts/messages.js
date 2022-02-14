@@ -3,7 +3,7 @@ const dateFormat = require("./dateFormat");
 const messages = [
   {
     text: "Hi there!",
-    user: "Amando",
+    user: "Armando",
     added: dateFormat(new Date()),
   },
   {
